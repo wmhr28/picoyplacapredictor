@@ -1,0 +1,21 @@
+{
+  "name": "picoyplacapredictor",
+  "version": "1.0.0",
+  "description": "Pico y Placa Predictor",
+  "main": "index.js",
+  "dependencies": {
+    "moment": "^2.18.1"
+  },
+  "devDependencies": {
+    "eslint": "^4.7.2",
+    "mocha": "^3.5.3",
+    "ts-node": "^3.3.0",
+    "typescript": "^2.5.2",
+    "typescript-eslint-parser": "^8.0.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Mauricio Herrera <wmhr28@hotmail.com>",
+  "license": "MIT"
+}
